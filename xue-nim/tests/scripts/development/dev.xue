@@ -1,0 +1,2 @@
+let a: number = 32;
+echo a;

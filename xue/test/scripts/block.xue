@@ -1,0 +1,11 @@
+begin
+    let a = 12;
+    echo a;
+
+    begin
+        let a = 24;
+        echo a;
+    end
+
+    echo a;
+end

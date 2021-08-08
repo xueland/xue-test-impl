@@ -1,0 +1,2 @@
+echo "\nHello, World!\n\n";
+echo "the result is: " .. !(5 - 4 > 3 * 2 == !null) .. "\n\n";
